@@ -1,0 +1,7 @@
+# Ignore any txt file
+# Ignore any python file which will only operate on local
+# Ignore any bat file which will only operate on local
+*.txt
+*.py
+*.bat
+*.png
