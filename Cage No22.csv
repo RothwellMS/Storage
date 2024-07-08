@@ -1,0 +1,8 @@
+Location,1-A-B,Cage No,22,,
+Ref,NC#,Field 1,Field 2,Item No.,Description
+TET,12001, , ,3, Straight
+TST,114511, , ,1, Radius Bend
+TET,12001, , ,2, Straight
+TET,12001, , ,1, Straight
+TST,114511, , ,2, Shoe
+TST,114511, , ,3, Elbow
